@@ -1,0 +1,17 @@
+config.json
+# === Python 专属 ===
+__pycache__/    # Python缓存
+*.pyc           # 编译后的字节码文件
+venv/           # 虚拟环境
+env/
+*.egg-info/
+
+# 编辑器/IDE配置文件（团队开发必忽略）
+.idea/          # IntelliJ/PyCharm等JetBrains系列
+.vscode/        # VS Code
+.project        # Eclipse
+.classpath      # Eclipse
+
+# 日志文件
+*.log
+logs/           # 日志文件夹
