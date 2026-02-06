@@ -1,0 +1,15 @@
+[
+  {
+    "provider": "zhipu",
+    "api_key": "fbbff673189242ef98f15e79eaf54c0a.pVQ6Iu3JLuLp9XBA",
+    "base_url": "https://open.bigmodel.cn/api/paas/v4/",
+    "model": "glm-4.7-flash",
+    "default_params": {
+      "temperature": 0.7,
+      "top_p": 0.95
+    },
+    "max_concy":1
+    
+  }
+
+]
